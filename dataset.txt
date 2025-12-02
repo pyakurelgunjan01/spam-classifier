@@ -1,0 +1,10 @@
+spam,Win a free phone now
+ham,Hey are we meeting today?
+spam,Congratulations you won a lottery
+ham,Can we talk tomorrow?
+spam,You have won $1000, claim now
+ham,Let's have lunch tomorrow
+spam,Get cheap loans instantly
+ham,Are you coming to the meeting?
+spam,Exclusive offer just for you
+ham,Don't forget the assignment
